@@ -3,7 +3,8 @@
 - I’m currently into model building using all kinds of Algorithm and Framework
 - I’m always looking for guys who can work together in creating life changing projects
 - you can reach me at izudiugwu@gmail.com
-- Fun fact: loving creating AIs
+- Fun fact: loving creating solutions
+- 
 
 <!---
 collinsremi/collinsremi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
