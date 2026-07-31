@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Data+Scientist;AI%2FML+Engineer;Computer+Vision+Enthusiast;Deep+Learning+%7C+Neural+Networks;Machine+Learning+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Data+Scientist;AI%2FML+Engineer;Computer+Vision+Enthusiast;Deep+Learning+%7C+Neural+Networks;Machine+Learning+Engineer;Huawei+Associate+Cloud+Engineer;Data+Engineer;Automation+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,9 +10,9 @@
 
 ### About Me ⚡
 
-I love  building things
+I love building things.
 
-**Machine Learning Engineer | Computer Vision | Deep Learning | Analysis | Cloud Engineering**
+**Machine Learning Engineer | Computer Vision | Deep Learning | Data Engineer | Automation Engineer | Huawei Associate Cloud Engineer**
 
 ---
 
@@ -20,7 +20,7 @@ I love  building things
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views" />
 </p>
 
-### 🧰 Languages and Tools
+### My Stacks and specialties
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -45,6 +45,10 @@ I love  building things
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei Cloud"/>
+</p>
+
 ---
 
 ### 🛠️ Technical Skills
@@ -52,6 +56,9 @@ I love  building things
 - **Languages:** Python, SQL
 - **ML Frameworks:** TensorFlow, Keras, PyTorch
 - **Specialties:** Autoencoders, CNNs, Active Learning, *(add more here)*
+- **Data Engineering:** ETL pipelines, data pipelines, *(add more here)*
+- **Cloud:** Huawei Certified Associate Cloud Engineer
+- **Automation:** Workflow automation, CI/CD *(add more here)*
 
 ---
 
