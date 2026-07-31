@@ -10,7 +10,7 @@
 
 ### About Me ⚡
 
-I am a **Data Scientist** who is specialised in **AI/ML engineering**. I'm passionate about solving problems using **deep learning** and **neural networks**. I believe technology is the solution to most problems facing humanity.
+I love  building things
 
 **Machine Learning Engineer | Computer Vision | Deep Learning | Analysis | Cloud Engineering**
 
