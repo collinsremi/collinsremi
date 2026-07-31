@@ -1,7 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Diugwu Izudiugwu</h1>
 
 <p align="center">
-  <b>Data Scientist</b> • <b>AI/ML Engineer</b> • <b>Computer Vision</b> • <b>Deep Learning</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Data+Scientist;AI%2FML+Engineer;Computer+Vision+Enthusiast;Deep+Learning+%7C+Neural+Networks;Machine+Learning+Engineer" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
